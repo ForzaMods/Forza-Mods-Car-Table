@@ -15,7 +15,8 @@ A convenient tool for unlocking cars in Forza Horizon 5.
 
 <h2 align="center">Requirements</h2>
 
-Honestly I have no idea. Its just .NET 7 so whatever that needs I guess.
+- .NET 7
+- Car Pass for SOME cars
 
 People were having issues with .NET Runtime, here is the installer: [Link](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-7.0.9-windows-x64-installer)
 
